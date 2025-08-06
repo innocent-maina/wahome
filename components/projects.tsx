@@ -81,7 +81,7 @@ const Projects = () => {
       title: "Legendart CMS & Inventory",
       description:
         "A modular CMS-powered website and admin dashboard built for local artisans. Includes real-time inventory tracking and responsive product discovery tools.",
-      image: "/legendart.svg",
+      image: "/logos/legendart.png",
       technologies: [
         "Nuxt.js",
         "Supabase",
@@ -93,19 +93,10 @@ const Projects = () => {
       githubUrl: "https://github.com/yourusername/legendart-cms",
     },
     {
-      title: "Mitterx ePrescription Platform",
-      description:
-        "Full-stack system for managing digital prescriptions, including patient history tracking, smart filters, and PDF export for compliance.",
-      image: "/mitterx.svg",
-      technologies: ["Node.js", "Vue.js", "Supabase", "PDFKit", "Tailwind CSS"],
-      liveUrl: "https://mitterx-demo.com",
-      githubUrl: "https://github.com/yourusername/mitterx",
-    },
-    {
       title: "Africaptions Media Website",
       description:
         "An SEO-optimized showcase site for a media agency, featuring WhatsApp integrations, custom lead forms, and structured data for improved discoverability.",
-      image: "/africaptions.svg",
+      image: "/logos/africaptions.jpeg",
       technologies: [
         "Next.js",
         "Tailwind CSS",
@@ -120,7 +111,7 @@ const Projects = () => {
       title: "USSD Healthcare Platform",
       description:
         "Built for Africa’s Talking, this platform connects 10,000+ offline users with healthcare access via USSD, supported by a real-time dashboard for system monitoring.",
-      image: "/ussd-healthcare.svg",
+      image: "/logos/at-logo.jpeg",
       technologies: ["Node.js", "Vue.js", "Supabase", "USSD", "PostgreSQL"],
       liveUrl: "https://health-ussd-demo.com",
       githubUrl: "https://github.com/yourusername/ussd-healthcare",

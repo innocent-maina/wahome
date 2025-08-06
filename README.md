@@ -1,57 +1,45 @@
-# Beautiful Portfolio Template
+# 🚀 Innocent Maina — Developer Portfolio
 
-A modern and responsive portfolio template built with Next.js, Tailwind CSS, and Shadcn UI, and Shadcn UI Blocks.
+Welcome to my personal portfolio site — a carefully crafted showcase of my work, skills, and experience in web development, product building, and tech craftsmanship.
 
-## Demo
+> **Live site:** [innocent-maina.vercel.app](https://innocent-maina.vercel.app)
+> **GitHub repo:** [innocent-maina/portfolio](https://github.com/innocent-maina)
 
-[Live Demo](https://shadcn-portfolio-template.vercel.app/)
+---
 
-## Preview
+## 🧠 About Me
 
-![Preview](./public/preview.png)
+I'm a developer with a strong passion for building systems that work — clean UIs, scalable backends, and tools that serve people. I work at the intersection of **software**, **business**, and **growth**.
 
-## Features
+- 🛠️ Tech Stack: `Nuxt.js`, `Vue`, `Node.js`, `TailwindCSS`, `TypeScript`, `Next.js`, `React.js`
+- 🧩 Interests: Business logic, platform architecture, elegant user experience
+- 🌍 Based in Kenya
 
-- 🎨 Modern and clean design
-- 📱 Fully responsive layout
-- 🎯 Built with Next.js 15
-- 💅 Styled with Tailwind CSS `4.0`
-- 🧩 Built with [Shadcn UI](https://ui.shadcn.com) and [Shadcn UI Blocks](https://shadcnui-blocks.com)
-- 🌙 Dark mode support
+---
 
-## Getting Started
+## ✨ Features
 
-1. Clone the repository:
+This site was built as both a **resume replacement** and a **personal branding tool**. It includes:
 
-```bash
-git clone https://github.com/akash3444/portfolio-template.git
-cd shadcn-ui-landing-page
-```
+- ✅ Responsive and lightweight UI
+- 🎯 Highlights key projects & achievements
+- 📄 CV download
+- 🔗 GitHub + project links
+- 💬 Simple contact system
 
-2. Install dependencies:
+---
 
-```bash
-npm install
-```
+## 🛠️ Built With
 
-3. Start the development server:
+| Tool / Library       | Purpose                          |
+|----------------------|----------------------------------|
+| [NextJS 3](https://nextjs.org)          | Full-stack app framework           |
+| [React.js](https://react.org)         | Reactive frontend framework        |
+| [TailwindCSS](https://tailwindcss.com) | Utility-first styling               |
+| [Shadcn/UI](https://ui.shadcn.com) | Beautiful UI components             |
+| [Vercel](https://vercel.com)        | Hosting & deployment                |
 
-```bash
-npm run dev
-```
+---
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+## 📂 Folder Structure
 
-## Customization
-
-1. Replace the placeholder images with your own content.
-2. Modify the text and styles in the components to match your brand and messaging.
-3. Add your own features and sections as needed.
-
-## Why this template?
-
-This project is a base template for a portfolio. It is built with Next.js, Tailwind CSS, Shadcn UI, and Shadcn UI Blocks. It is a great starting point for a portfolio. You can customized the content and media files as per your needs. It is not intended to be a complete solution for a portfolio. It is intended to be a starting point for a portfolio.
-
-## Contributing
-
-If you have any suggestions or improvements, please create an issue or submit a pull request.
